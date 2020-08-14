@@ -213,6 +213,9 @@
 		padding:15px;
 		line-height:1.2;
 	}
+	.navigation-menu > li > a:hover {
+		color:#007bff;
+	}
 	.navbar-nav {
 		overflow-y: auto;
 		display:block;
